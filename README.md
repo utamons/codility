@@ -1,2 +1,3 @@
 # codility
-Valious Codility tasks
+
+Various Codility tasks
